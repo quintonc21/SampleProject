@@ -1,8 +1,8 @@
 # Student Names 
-Henry Forsyth
+Quinton Clark
 
 # Summary
-This is a testing doc to see if I can pull it into the website
+Build an electromagnetic levitation table from scratch. 
 
 # Date Started
-11-16-2000
+9/20/23
